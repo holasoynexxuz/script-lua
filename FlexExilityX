@@ -1,10 +1,9 @@
-
 local v1 = game:GetService("Players").LocalPlayer
 local v2 = v1:WaitForChild("PlayerGui")
 local v3, v4, v5 = ipairs({
-    "baconcitu_YT",
+    "iruka_kamone",
     "W_yorudaze",
-    "GOKUU03l2",
+    "baconcitu_YT",
     "MercStoriafan",
     "hayakinn_kazuma",
     "DJORIANN",
